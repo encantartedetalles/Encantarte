@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Encantarte - Detalles y Rosas Eternas</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Encantarte</h1>
+    <p>Detalles que perduran, rosas que encantan 🌹</p>
+  </header>
+
+  <nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#nosotros">Sobre nosotros</a>
+    <a href="#productos">Productos</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+
+  <section id="inicio" class="hero">
+    <h2>Bienvenidos a Encantarte</h2>
+    <p>Regalos con amor y elegancia. Explora nuestras rosas eternas y detalles encantadores.</p>
+  </section>
+
+  <section id="nosotros">
+    <h2>Sobre nosotros</h2>
+    <p>Encantarte nace del deseo de crear momentos inolvidables con detalles delicados, personalizados y llenos de amor.</p>
+  </section>
+
+  <section id="productos">
+    <h2>Nuestros Productos</h2>
+    <ul>
+      <li>🌹 Rosas eternas en cajas acrílicas</li>
+      <li>🎁 Detalles personalizados para ocasiones especiales</li>
+      <li>💌 Cartas y mensajes con diseño único</li>
+    </ul>
+  </section>
+
+  <section id="contacto">
+    <h2>Contáctanos</h2>
+    <p>¿Quieres hacer un pedido o tienes una consulta?</p>
+    <p>Escríbenos por <a href="https://wa.me/XXXXXXXXXXX" target="_blank">WhatsApp</a> o en nuestras <a href="https://www.instagram.com/" target="_blank">redes sociales</a>.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Encantarte | Diseñado con amor 💖</p>
+  </footer>
+</body>
+</html>
